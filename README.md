@@ -1,9 +1,14 @@
-# 🔐 CyberBotGUI - Cybersecurity Awareness Bot (Part 2)
+# 🔐 CyberBotGUI - Cybersecurity Awareness Bot (Part 3/POE)
 
 ## Description
 A WPF GUI chatbot that educates users on cybersecurity topics including passwords, phishing, safe browsing, malware, privacy and scams.
 
 ## Features
+- Task asisistant with MySQL database
+- Cybersecurity quiz with 10+ questions
+- NLP keyword detection simulation
+- activity log feature
+- Reminders for cybersecurity tasks
 - GUI built with WPF
 - Voice greeting on launch
 - ASCII art header
@@ -14,6 +19,12 @@ A WPF GUI chatbot that educates users on cybersecurity topics including password
 - Conversation flow (tell me more, give me another tip)
 - Error handling for invalid inputs
 - Delegates for response handling and message display
+
+## requirements
+-Visual studio 2022
+-.Net framework
+-MySQL server
+-Windows 0s
 
 ## How to Use
 1. Run the application
